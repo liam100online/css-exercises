@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.number1,.number3,.number5 {
+    background-color: #ffb6c1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#number2{
+    color: #0000ff;
+    font-size: 24px;
+}
+.number3{
+    font-size: 24px;
+}
+#number4{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
