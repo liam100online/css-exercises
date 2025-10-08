@@ -1,8 +1,22 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
 }
+.left-links{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
 
+}
+.right-links{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
 .logo {
   font-size: 48px;
   font-weight: 900;
